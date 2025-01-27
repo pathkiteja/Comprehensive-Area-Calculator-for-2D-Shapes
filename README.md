@@ -31,7 +31,7 @@ A simple, interactive Python program to calculate the areas of various 2D geomet
    git clone https://github.com/yourusername/comprehensive-area-calculator.git
 
 ***************  DEMO **************
-[Screen Recording](Recording%202025-01-28%20000115.mp4)
+-------->[Screen Recording](Recording%202025-01-28%20000115.mp4)
 
 
 **************Supported Shapes *************
