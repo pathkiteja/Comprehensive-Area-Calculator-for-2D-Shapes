@@ -35,21 +35,21 @@ A simple, interactive Python program to calculate the areas of various 2D geomet
 
 
 **************Supported Shapes *************
-1)Square: side^2
-2)Rectangle: length × width
-3)Triangle: 0.5 × base × height
-4)Circle: π × radius^2
-5)Sector: (angle/360) × π × radius^2
-6)Ellipse: π × (major axis/2) × (minor axis/2)
-7)Trapezium: 0.5 × (base1 + base2) × height
-9)Parallelogram: base × height
-10)Rhombus: 0.5 × diagonal1 × diagonal2
-11)Kite: 0.5 × diagonal1 × diagonal2
-12)Pentagon: Approximate formula for regular pentagons
-13)Hexagon: (3√3 / 2) × side^2
-14)Octagon: 2 × (1 + √2) × side^2
-15)Annulus: π × (outer radius^2 − inner radius^2)
-16)Regular Polygon: (n × side^2) / (4 × tan(π / n))
+1)Square: side^2 .
+2)Rectangle: length × width.
+3)Triangle: 0.5 × base × height.
+4)Circle: π × radius^2.
+5)Sector: (angle/360) × π × radius^2.
+6)Ellipse: π × (major axis/2) × (minor axis/2).
+7)Trapezium: 0.5 × (base1 + base2) × height.
+9)Parallelogram: base × height.
+10)Rhombus: 0.5 × diagonal1 × diagonal2.
+11)Kite: 0.5 × diagonal1 × diagonal2.
+12)Pentagon: Approximate formula for regular pentagons.
+13)Hexagon: (3√3 / 2) × side^2.
+14)Octagon: 2 × (1 + √2) × side^2.
+15)Annulus: π × (outer radius^2 − inner radius^2).
+16)Regular Polygon: (n × side^2) / (4 × tan(π / n)).
 
 
 
