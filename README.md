@@ -34,22 +34,52 @@ A simple, interactive Python program to calculate the areas of various 2D geomet
 1) [Screen Recording](Recording%202025-01-28%20000115.mp4)
 
 
-**************Supported Shapes *************
-1)Square: side^2 .
-2)Rectangle: length × width.
-3)Triangle: 0.5 × base × height.
-4)Circle: π × radius^2.
-5)Sector: (angle/360) × π × radius^2.
-6)Ellipse: π × (major axis/2) × (minor axis/2).
-7)Trapezium: 0.5 × (base1 + base2) × height.
-9)Parallelogram: base × height.
-10)Rhombus: 0.5 × diagonal1 × diagonal2.
-11)Kite: 0.5 × diagonal1 × diagonal2.
-12)Pentagon: Approximate formula for regular pentagons.
-13)Hexagon: (3√3 / 2) × side^2.
-14)Octagon: 2 × (1 + √2) × side^2.
-15)Annulus: π × (outer radius^2 − inner radius^2).
-16)Regular Polygon: (n × side^2) / (4 × tan(π / n)).
+### Supported Shapes
+
+1. **Square**  
+   Formula: `side²`
+
+2. **Rectangle**  
+   Formula: `length × width`
+
+3. **Triangle**  
+   Formula: `0.5 × base × height`
+
+4. **Circle**  
+   Formula: `π × radius²`
+
+5. **Sector**  
+   Formula: `(angle/360) × π × radius²`
+
+6. **Ellipse**  
+   Formula: `π × major axis × minor axis`
+
+7. **Trapezium**  
+   Formula: `0.5 × (base1 + base2) × height`
+
+8. **Parallelogram**  
+   Formula: `base × height`
+
+9. **Rhombus**  
+   Formula: `0.5 × diagonal1 × diagonal2`
+
+10. **Kite**  
+    Formula: `0.5 × diagonal1 × diagonal2`
+
+11. **Pentagon**  
+    Approximation: `1.72 × side²`
+
+12. **Hexagon**  
+    Approximation: `(3√3 / 2) × side²`
+
+13. **Octagon**  
+    Approximation: `2 × (1 + √2) × side²`
+
+14. **Annulus**  
+    Formula: `π × (outer radius² - inner radius²)`
+
+15. **Regular Polygon**  
+    Formula: `(n × side²) / (4 × tan(π/n))`
 
 
 
